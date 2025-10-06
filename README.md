@@ -24,7 +24,7 @@
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/zackson-pessoa/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
   </a>
 
   <!-- X (Twitter) -->
@@ -34,7 +34,7 @@
 
   <!-- Discord -->
   <a href="https://discordapp.com/users/784099298303934475" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"/>
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/>
   </a>
 
 
