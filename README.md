@@ -37,10 +37,7 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"/>
   </a>
 
-  <!-- GitHub -->
-  <a href="https://github.com/ZacksonPessoa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo"/>
-  </a>
+
 
 </div>
 
