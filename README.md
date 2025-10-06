@@ -23,19 +23,23 @@
 <div align="center">
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/zackson-pessoa/" target="_blank">
+  <a href="https://www.linkedin.com/in/zackson-pessoa/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/>
   </a>
 
   <!-- X (Twitter) -->
-  <a href="https://x.com/ZacksonPessoa" target="_blank">
+  <a href="https://x.com/ZacksonPessoa" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=Follow&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="x logo"/>
   </a>
 
   <!-- Discord -->
-  <a href="https://discordapp.com/users/784099298303934475" target="_blank">
+  <a href="https://discordapp.com/users/784099298303934475" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"/>
   </a>
+
+
+</div>
+
 
 
 
