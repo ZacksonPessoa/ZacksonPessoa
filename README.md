@@ -24,17 +24,22 @@
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/zackson-pessoa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/>
   </a>
 
-  <!-- Twitter -->
-  <a href="https://twitter.com/seu_usuario" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/>
+  <!-- X (Twitter) -->
+  <a href="https://x.com/ZacksonPessoa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Follow&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="x logo"/>
   </a>
 
   <!-- Discord -->
-  <a href="https://discordapp.com/users/seu_id" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/>
+  <a href="https://discordapp.com/users/784099298303934475" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/ZacksonPessoa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo"/>
   </a>
 
 </div>
