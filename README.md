@@ -1,23 +1,9 @@
 
-
-
-
-###
-
-
-
-
-
-
-</div>
-
-
-
 ###
 
 
 <div align="center">
-  <img height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmkwdnRvNXdqbGpiYmdxbzc5ZTY0Z211cDJocHFvenFqZXdsYjk5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JlJJU8Rd2QP4qxjNBc/giphy.gif"  />
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmkwdnRvNXdqbGpiYmdxbzc5ZTY0Z211cDJocHFvenFqZXdsYjk5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JlJJU8Rd2QP4qxjNBc/giphy.gif"  />
 </div>
 
 
@@ -95,7 +81,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ZacksonPessoa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="420" alt="streak graph" />
-  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <!-- espaço entre as imagens -->
+  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  <!-- espaço entre as imagens -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZacksonPessoa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="320" alt="languages graph" />
 </p>
 
