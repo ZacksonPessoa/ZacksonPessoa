@@ -39,29 +39,22 @@
 </div>
 
 ###
-
 <h1 align="center">Hey 👋 What's Up?</h1>
 
+<!-- GIF flutuando à direita -->
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZvM3V6OXQ3d3V1OWxmMWJ0bXZ3Z3R1NW50N3hlc2k5NGhodmpoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JSpQIM7kiwZj1x7wZu/giphy.gif" width="200" alt="mouse gif">
 
-<table border="0" cellspacing="0" cellpadding="0" style="border: none;">
-  <tr>
-    <!-- Coluna do texto -->
-    <td width="60%" valign="top" style="border: none;">
-      <h3>👩‍💻 About Me</h3>
-      <p>
-        I'm Zackson from Brasil <br><br>
-        - 🔭 I’m working on the project <b>USDC-Payments-SDK-for-Stellar-Web-Mobile</b> <br>
-        - 📚 I'm currently learning the Stellar ecosystem
-      </p>
-    </td>
-    <td width="40%" align="center" valign="middle" style="border: none;">
-      <img
-        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZvM3V6OXQ3d3V1OWxmMWJ0bXZ3Z3R1NW50N3hlc2k5NGhodmpoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JSpQIM7kiwZj1x7wZu/giphy.gif"
-        width="200"
-        alt="mouse gif" />
-    </td>
-  </tr>
-</table>
+<h3>👩‍💻 About Me</h3>
+<p>I'm Zackson from Brasil</p>
+<ul>
+  <li>🔭 I’m working on the project <b>USDC-Payments-SDK-for-Stellar-Web-Mobile</b></li>
+  <li>📚 I'm currently learning the Stellar ecosystem</li>
+</ul>
+
+<!-- Para evitar que o GIF "invada" a próxima seção -->
+<br clear="both" />
+
+
 
 
 ###
@@ -70,23 +63,32 @@
 
 ###
 
+
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="50" alt="rust logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="50" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="vuejs logo"  />
 </div>
+
 
 ###
 
