@@ -47,8 +47,8 @@
 <h3>👩‍💻 About Me</h3>
 <p>I'm Zackson from Brasil</p>
 <ul>
-  <li>🔭 I’m working on the project <b>USDC-Payments-SDK-for-Stellar-Web-Mobile</b></li>
-  <li>📚 I'm currently learning the Stellar ecosystem</li>
+  <li>💻 Systems Analyst • 🚀 Blockchain & Fintech Enthusiast  </b></li>
+  <li>🌍 Exploring the **Stellar Ecosystem** | Building **USDC Payments SDK**  </li>
 </ul>
 
 <!-- Para evitar que o GIF "invada" a próxima seção -->
