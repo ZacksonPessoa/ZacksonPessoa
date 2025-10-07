@@ -46,7 +46,7 @@
 
 ###
 
-  <p align="left">I'm Zackson from Brasil <br><br>- 🔭 I’m working as on the project USDC-Payments-SDK-for-Stellar-Web-Mobile <br>- 📚 I'm currently learning the Stellar<br></p>
+  <p align="left">I'm Zackson from Brasil <br><br>- 🔭 I’m working as on the project USDC-Payments-SDK-for-Stellar-Web-Mobile <br>- 📚 I'm currently learning the Stellar ecosystem<br></p>
 
 ###
 
