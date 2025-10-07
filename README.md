@@ -8,6 +8,8 @@
 
 
 
+
+
 ###
 
 <div align="center">
@@ -38,15 +40,29 @@
 
 ###
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<table border="0" cellspacing="0" cellpadding="0" style="border: none;">
+  <tr>
+    <!-- Coluna do texto -->
+    <td width="60%" valign="top" style="border: none;">
+      <h3>👩‍💻 About Me</h3>
+      <p>
+        I'm Zackson from Brasil <br><br>
+        - 🔭 I’m working on the project <b>USDC-Payments-SDK-for-Stellar-Web-Mobile</b> <br>
+        - 📚 I'm currently learning the Stellar ecosystem
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle" style="border: none;">
+      <img
+        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZvM3V6OXQ3d3V1OWxmMWJ0bXZ3Z3R1NW50N3hlc2k5NGhodmpoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JSpQIM7kiwZj1x7wZu/giphy.gif"
+        width="200"
+        alt="mouse gif" />
+    </td>
+  </tr>
+</table>
 
-###
-
-  <p align="left">I'm Zackson from Brasil <br><br>- 🔭 I’m working as on the project USDC-Payments-SDK-for-Stellar-Web-Mobile <br>- 📚 I'm currently learning the Stellar ecosystem<br></p>
 
 ###
 
