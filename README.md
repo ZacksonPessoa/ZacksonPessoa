@@ -90,16 +90,17 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<!--<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ZacksonPessoa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="420" alt="streak graph" />
-  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  <!-- espaço entre as imagens -->
+
+  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZacksonPessoa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="320" alt="languages graph" />
-</p>
+</p>-->
 
 
 
